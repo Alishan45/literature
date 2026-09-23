@@ -1,0 +1,33 @@
+Professor: Yang Muyun
+University: Harbin Institute of Technology
+Email: yangmuyun@hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 45/100
+
+Research Summary:
+Professor Yang Muyun's research focuses on natural language processing, large language models, machine translation, and information retrieval.
+
+Subject: Prospective Master's Student Inquiry: Corpus-Based Evaluation of LLM Feedback & CSC Scholarship (NLP Focus)
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Yang,
+
+I hope this email finds you well. My name is Akasha Iqbal, and I am writing to express my sincere interest in your pioneering research in natural language processing and large language models at the Harbin Institute of Technology. As I prepare my application for the Chinese Government Scholarship (CSC), I am eager to seek your guidance, potential supervision, and an official acceptance letter to join your esteemed research group.
+
+Your work on large language models and natural language processing provides a robust technological foundation for my proposed Master's research, which is titled 'Corpus-based evaluation of LLM feedback on coherence, cohesion and rhetorical organisation in English writing'. Specifically, I aim to investigate how advanced LLMs evaluate and generate discourse-level feedback for student writing. Given your expertise in NLP and information retrieval, your insights would be invaluable in bridging computational language technologies with corpus-based discourse analysis.
+
+I hold a Bachelor of Science (Hons) in English Literature from the University of the Punjab, complemented by professional experience as a linguistics lecturer and secondary school teacher. My academic background has equipped me with advanced skills in academic writing, discourse analysis, and empirical research methodologies, preparing me to contribute meaningfully to your ongoing computational and linguistic investigations.
+
+Could you please let me know whether you are currently accepting Master's students for the upcoming academic cycle and whether you would be open to supervising my research under the CSC scholarship program?
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

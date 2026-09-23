@@ -1,0 +1,33 @@
+Professor: Wang Xiaowen
+University: Guangdong University of Foreign Studies
+Email: wangxiaowen_annie@gdufs.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 45/100
+
+Research Summary:
+Professor Wang Xiaowen focuses on corpus and computational linguistics, ESP and medical English discourse, bilingual terminology, translation, and public-health communication studies.
+
+Subject: Inquiry regarding Master's supervision on bilingual medical terminology and CSC scholarship application
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Wang,
+
+I hope this email finds you well. My name is Akasha Iqbal, and I am an English graduate from the University of the Punjab. I have been following your scholarly contributions to corpus linguistics, ESP, and medical English discourse with great admiration, particularly your work on bilingual respiratory-medicine terminology and public-health communication. As I prepare my application for the Chinese Government Scholarship (CSC), I am writing to respectfully inquire about your availability to accept Master's students and whether you would consider supervising my graduate studies.
+
+Your research into bilingual terminology and medical English discourse provides an inspiring framework for my proposed research topic, Stance, hedging and bilingual terminology in English medical research writing. I am particularly eager to explore how linguistic stance and hedging intersect with specialized bilingual terminology in medical research texts. Your insights into corpus approaches offer invaluable methodologies that I hope to engage with and contribute to under your mentorship.
+
+Throughout my Bachelor of Science in English with Honors, I developed a strong foundation in academic writing, critical discourse analysis, and research methodology. My academic background has equipped me with rigorous analytical skills and a deep appreciation for textual analysis, which I am keen to apply to computational and corpus-based linguistic investigations within your research group.
+
+Could you please let me know if you are currently accepting Master's students for the upcoming academic cycle, and if you would be open to mentoring me? I have attached my CV for your review and would be deeply honored to learn under your guidance.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

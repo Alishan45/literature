@@ -1,0 +1,33 @@
+Professor: Geng Qiang
+University: Shanghai International Studies University
+Email: gengqiang@shisu.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 42/100
+
+Research Summary:
+Professor Geng Qiang works on digital humanities, Chinese translation discourse, translation history, and big data applications in translation research.
+
+Subject: Prospective Master's Supervision & CSC Scholarship: Digital Corpus and Translation Discourse Research
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Qiang,
+
+I hope this email finds you well. My name is Akasha Iqbal, a recent English Literature graduate from the University of the Punjab. I have been following your scholarly contributions to digital humanities and Chinese translation discourse with great admiration, and I am writing to express my strong interest in pursuing my Master's studies under your supervision through the upcoming CSC scholarship program.
+
+Your work integrating big data with translation history and discourse offers an inspiring framework for my proposed research topic, A digital corpus tracing English translations and Chinese literary-cultural identity. I am eager to explore how computational methods can map translational shifts and cultural representations in literary texts, aligning directly with your recent projects utilizing big data for translation-discourse research.
+
+Throughout my undergraduate studies, I developed a strong foundation in textual analysis, academic writing, and critical research methodologies, complemented by my professional experience as an educator and literature lecturer. My academic background has equipped me with the analytical rigor necessary to contribute meaningfully to your research group and engage deeply with digital humanities projects.
+
+I would be deeply honored to know whether you are currently accepting Master's students and if you would be willing to consider supervising my proposed research., and
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

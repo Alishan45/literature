@@ -1,0 +1,33 @@
+Professor: Yang Ruiying
+University: Xi'an Jiaotong University
+Email: yangryd@xjtu.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 35/100
+
+Research Summary:
+Professor Yang Ruiying specializes in English for Specific Purposes, genre and discourse analysis, academic-English writing, and online feedback systems.
+
+Subject: Prospective Master's Supervision & CSC Scholarship: Diagnostic online feedback for academic writing
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Yang,
+
+I hope this email finds you well. I am writing to express my sincere admiration for your pioneering contributions to academic-English writing and genre and discourse analysis, particularly your work on diagnostic online feedback systems. As I prepare my application for the upcoming CSC scholarship cycle, I am writing to inquire about your availability to accept Master's students and whether you might consider supervising my research.
+
+Your current project on constructing a Diagnostic Online Feedback System for English Academic Thesis Writing directly intersects with my proposed research topic, Diagnostic online feedback for Pakistani university students’ English academic writing. I am particularly fascinated by how automated and genre-based pedagogical interventions can address distinct linguistic challenges in scholarly composition. Your insights into English for Specific Purposes provide an ideal framework for examining how targeted online feedback can refine academic literacy among non-native graduate students.
+
+I hold a Bachelor of Science (Hons) in English Literature from the University of Punjab, complemented by practical experience as a linguistics lecturer and secondary school teacher. My academic training has equipped me with a strong foundation in discourse analysis, research methodology, and academic writing pedagogy, preparing me to actively contribute to your ongoing research initiatives.
+
+Could you kindly let me know if you are currently accepting Master's students and whether you would be open to reviewing my research proposal for potential supervision under the CSC scholarship?
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

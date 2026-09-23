@@ -1,0 +1,28 @@
+Professor: Li Hongzheng (李洪政), tenured associate professor; doctoral supervisor
+University: Beijing Institute of Technology
+Email: lihongzheng@bit.edu.cn
+Gemini Model: gemini-3.1-flash-lite
+Research Match: 35/100
+
+Research Summary:
+Professor Li Hongzheng specializes in natural language processing, large language models, and corpus-based academic-language analysis, with recent work on move structures in scientific abstracts.
+
+Subject: Prospective Master's Student: Interest in Joining Your Research Group (CSC/ANSO)
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Li, I am writing to express my strong interest in joining your research group at the Beijing Institute of Technology as a Master's student.
+
+I am currently preparing my application for the CSC scholarship and would be honored to be considered for your supervision. Your work on corpus-based academic-language analysis and the development of move-structure corpora is highly impressive. I am particularly interested in how your methodologies for analyzing language data could be applied to broader discourse analysis. I am eager to learn from your expertise in computational linguistics and contribute to your ongoing projects, such as your research on language-model-assisted corpus construction. My background is in English Literature, where I developed a strong foundation in discourse analysis and academic writing. Through my experience as a lecturer and teacher, I have honed my ability to manage complex data and communicate findings effectively. I am confident that my analytical skills and dedication to academic rigor would allow me to contribute meaningfully to your research team.
+
+Could you please let me know if you are currently accepting new Master's students? I would appreciate the opportunity to discuss whether my background aligns with your research group's needs.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab

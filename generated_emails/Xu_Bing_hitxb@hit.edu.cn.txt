@@ -1,0 +1,33 @@
+Professor: Xu Bing
+University: Harbin Institute of Technology
+Email: hitxb@hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 65/100
+
+Research Summary:
+Xu Bing's research centers on LLM safety and value alignment, multimodal affective computing, language technology, and human-computer communication.
+
+Subject: Prospective Master's Student Inquiry: Politeness, Empathy, and LLM Value Alignment for CSC Scholarship
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Xu,
+
+I hope this email finds you well. My name is Akasha Iqbal, an English Literature graduate from the University of the Punjab. I have been following your pioneering work on LLM safety, value alignment, and language technology with great admiration. As I prepare my application for the upcoming CSC scholarship, I am writing to respectfully inquire about your availability to take on a Master's student and whether you might be willing to consider issuing a provisional acceptance letter.
+
+Your research into LLM safety and value alignment provides a fascinating technical foundation that directly intersects with my proposed research topic: Politeness, empathy and value alignment in English educational dialogue systems. I am particularly excited about exploring how human-like empathy and normative politeness frameworks can be structurally integrated into language models and human-computer communication systems. I am eager to contribute a linguistic and humanistic perspective to your lab's ongoing investigations in language technology and alignment.
+
+Throughout my Bachelor of Science in English Literature, I developed a rigorous foundation in discourse analysis, pragmatics, academic writing, and empirical research methodologies. My background in analyzing narrative structures, sociolinguistics, and educational communication equips me with the analytical tools necessary to examine how dialogue systems convey empathy and affective alignment in academic contexts.
+
+I would be deeply honored to learn whether you are currently accepting graduate students for the upcoming cycle and if you would be open to supervising my research. I have attached my CV for your review.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

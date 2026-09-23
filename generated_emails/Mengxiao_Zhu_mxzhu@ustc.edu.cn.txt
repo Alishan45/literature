@@ -1,0 +1,35 @@
+Professor: Mengxiao Zhu
+University: University of Science and Technology of China
+Email: mxzhu@ustc.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 75/100
+
+Research Summary:
+Professor Mengxiao Zhu focuses on computational communication, social networks, AI-human communication, learning analytics, and personalized learning, with notable 2025 work on essay scoring using keystroke logs and online collaborative problem solving.
+
+Subject: Prospective Master's Student Inquiry: Discourse Analysis and Writing-Process Data for CSC Scholarship - Akasha Iqbal
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Zhu,
+
+I hope this email finds you well. My name is Akasha Iqbal, and I am an English Literature graduate from the University of the Punjab. I have been following your remarkable research in computational communication and learning analytics, particularly your 2025 studies on essay scoring utilizing keystroke logs and online collaborative problem solving. I am writing to express my strong interest in pursuing my Master's degree under your supervision at the University of Science and Technology of China, supported by the Chinese Government Scholarship (CSC).
+
+My proposed research topic, 'Discourse analysis and writing-process data in online collaborative English writing,' aims to investigate how students construct meaning and collaborate digitally. This topic directly intersects with your expertise in learning analytics and computational writing assessment. I am particularly inspired by how your work extracts behavioral insights from keystroke logs to evaluate student writing processes, and I am eager to explore how similar methodological frameworks can be applied to examine linguistic patterns in online collaborative writing environments.
+
+Throughout my Bachelor of Science in English Literature, I developed a rigorous foundation in discourse analysis, linguistics, and research methodology. My academic background has equipped me with strong analytical skills in evaluating textual structures and academic writing, while my professional experience as a secondary school teacher and linguistics lecturer has given me practical insights into student learning behaviors and writing development.
+
+I would be deeply honored to contribute to your research group.
+
+Could you kindly let me know if you are currently accepting Master's students for the upcoming academic year and whether you would be open to supervising my research?
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

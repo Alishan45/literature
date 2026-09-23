@@ -1,0 +1,18 @@
+# Environment variables (sensitive!)
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Gemini debug/config
+gemini_debug/
+.gemini_active_models.json
+
+# Backup files
+*.testbak

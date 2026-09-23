@@ -1,0 +1,33 @@
+Professor: Wanxiang Che
+University: Harbin Institute of Technology
+Email: car@ir.hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 75/100
+
+Research Summary:
+Professor Wanxiang Che focuses on natural language processing, computational linguistics, semantic parsing, cross-lingual language analysis, and low-resource NLP methodologies.
+
+Subject: Prospective Master's Student Inquiry: Low-Resource Semantic Parsing and CSC Scholarship (Wanxiang Che Lab)
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Che,
+
+I hope this email finds you well. My name is Akasha Iqbal, and I am an English Literature graduate from the University of the Punjab. I have been following your pioneering contributions to natural language processing, computational linguistics, and semantic parsing with great admiration. As I prepare my application for the Chinese Government Scholarship (CSC), I am writing to respectfully inquire about the availability of graduate supervision and an official acceptance letter to join your esteemed research group.
+
+Your recent work on theories and methods of natural language processing with fewer labels has deeply inspired my proposed research topic, Low-resource annotation and discourse-semantic parsing of English academic writing by multilingual learners. I am particularly eager to explore how computational models and cross-lingual language analysis can be applied to handle limited annotation scenarios in analyzing academic discourse. Contributing to your group's advancements in semantic parsing and low-resource learning methodologies represents an extraordinary opportunity for my academic development.
+
+My academic background in BS English Literature at the University of the Punjab has equipped me with a strong foundation in critical analysis, discourse study, academic writing, and research methodology. Additionally, my professional experience as a linguistics lecturer and secondary school teacher has given me practical insights into learner language structures and writing patterns, which I hope to integrate effectively into computational frameworks.
+
+I would be deeply honored if you could let me know whether you are currently accepting Master's students for the upcoming intake and whether you would be willing to consider supervising my proposed research. Attached to this email is my CV for your review.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

@@ -1,0 +1,35 @@
+Professor: Lin Lei
+University: Harbin Institute of Technology
+Email: linl@insun.hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 15/100
+
+Research Summary:
+Lin Lei's research focuses on natural language processing, information extraction, knowledge graphs, and recommender systems.
+
+Subject: Inquiry regarding Master's Supervision and CSC Scholarship in Natural Language Processing and Information Extraction - Akasha Iqbal
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Lei,
+
+I hope this email finds you well. I am writing to express my sincere admiration for your pioneering research in natural language processing, information extraction, and knowledge graphs. As I prepare my application for the Chinese Government Scholarship (CSC), it is a distinct privilege to reach out to a scholar whose contributions to ministry projects and NSFC initiatives are so impactful. I am writing to respectfully inquire whether you are currently accepting Master's students and if you would be willing to consider issuing an acceptance letter.
+
+My proposed research topic is Discourse-aware extraction of stance and argument relations from English academic writing. This work bridges advanced text analysis and structural mapping, which I believe aligns closely with your expertise in information extraction and natural language processing. I am particularly inspired by how your recent profile reports handle complex data patterns, and I am eager to apply computational and discourse-level methodologies to dissect argumentative structures within scholarly texts, contributing fresh perspectives to your lab's ongoing computational investigations.
+
+I hold a Bachelor of Science (Hons) in English Literature from the University of the Punjab, where I built a rigorous foundation in discourse analysis, critical writing, and research methodology. My academic training has equipped me with strong analytical skills, attention to detail, and a disciplined approach to complex textual data, preparing me to tackle interdisciplinary challenges within a dynamic research group.
+
+Could you please let me know if you are accepting graduate students for the upcoming intake and whether my research orientation would be a suitable fit for your group?
+
+Thank you very much for your time and consideration.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

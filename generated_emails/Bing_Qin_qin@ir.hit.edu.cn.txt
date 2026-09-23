@@ -1,0 +1,33 @@
+Professor: Bing Qin
+University: Harbin Institute of Technology
+Email: qin@ir.hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 45/100
+
+Research Summary:
+Professor Bing Qin specializes in natural language processing, sentiment and affective computing, knowledge graphs, and large language models, including recent work on sentiment-cognitive alignment in LLMs.
+
+Subject: Prospective Master's Student: CSC Scholarship & Research on Sentiment Alignment in LLMs
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Qin,
+
+I hope this email finds you well. I am writing to express my sincere admiration for your groundbreaking contributions to natural language processing and sentiment computing, particularly your recent work on sentiment-cognitive alignment in large language models. As I prepare my application for the upcoming Chinese Government Scholarship (CSC), I am writing to respectfully inquire about your availability to supervise a Master's student for the 2025-2026 academic year and whether you would consider issuing a provisional acceptance letter.
+
+My proposed research topic, Discourse-pragmatic evaluation of sentiment and stance alignment in English learner-support chatbots, directly intersects with your core expertise in affective computing and large language models. By examining how LLMs convey and adapt pedagogical stance in dialogue systems, I aim to contribute meaningful insights to affective text generation. Your publications on non-English capability and cognitive alignment provide an ideal methodological framework for evaluating how effectively models process pragmatic stance and emotional nuance.
+
+I hold a Bachelor of Science (Hons) in English Literature from the University of the Punjab, complemented by professional experience in language teaching and academic writing. My background has provided me with strong analytical skills in discourse analysis, textual evaluation, and critical theory, equipping me to undertake interdisciplinary research bridging linguistic pragmatics and computational language models.
+
+Could you please let me know if you are currently accepting Master's students and whether my research proposal aligns with your lab's current direction? I have attached my CV for your review.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

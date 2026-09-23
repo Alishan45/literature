@@ -1,0 +1,33 @@
+Professor: Lin Nan
+University: Chinese Academy of Sciences
+Email: linn@psych.ac.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 75/100
+
+Research Summary:
+Professor Lin Nan focuses on semantic processing, reading, social semantics, discourse comprehension, and computational language resources.
+
+Subject: Inquiry regarding Master's supervision in Semantic Processing and Discourse Comprehension for CSC Scholarship - Akasha Iqbal
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Lin,
+
+I hope this email finds you well. I am writing to express my strong admiration for your pioneering research on semantic processing, discourse comprehension, and social-semantic working memory. As I prepare my application for the upcoming CSC scholarship, I am writing to respectfully inquire about your availability to supervise prospective Master's students and whether you might consider issuing an official letter of acceptance.
+
+My proposed research topic, "Social-semantic meaning in literary reading: an English corpus of character perspective and discourse inference," aims to investigate how readers process social and narrative semantics during literary comprehension. Your empirical work on situation updating and discourse comprehension provides an ideal framework for analyzing how semantic ratings and computational language resources can be applied to literary texts. I am particularly eager to explore how your insights into social semantics can be integrated into the empirical study of narrative discourse processing.
+
+I recently graduated with a BS (Hons) in English Literature from the University of the Punjab, where I developed a strong foundation in discourse analysis, critical theory, and academic research writing. My academic background has equipped me with rigorous analytical skills and hands-on experience in qualitative and textual research methodologies, preparing me to contribute meaningfully to your research group.
+
+Could you please let me know if you are currently accepting Master's students for the upcoming academic year and if you would be willing to guide my research under the CSC scholarship program?
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

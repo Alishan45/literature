@@ -1,0 +1,22 @@
+pypdf>=5.0
+python-dotenv>=1.0
+requests>=2.0
+
+
+
+
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_EMAIL=akashaiqbal45@gmail.com
+SMTP_PASSWORD=cjwc yvsm zeau xcgr
+EMAIL_ADDRESS=akashaiqbal45@gmail.com
+EMAIL_APP_PASSWORD=cjwc yvsm zeau xcgr
+
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_EMAIL=akashaiqbal.literature01@gmail.com
+SMTP_PASSWORD=twdx iede cmwr ywnc
+EMAIL_ADDRESS=akashaiqbal.literature01@gmail.com
+EMAIL_APP_PASSWORD=twdx iede cmwr ywnc

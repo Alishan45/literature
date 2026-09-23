@@ -1,0 +1,35 @@
+Professor: Lei Wang
+University: Peking University
+Email: wangleics@pku.edu.cn
+Gemini Model: gemini-3.6-flash
+Research Match: 85/100
+
+Research Summary:
+Professor Lei Wang specializes in computational and corpus linguistics, AI and RAG for language models, computer-assisted translation, educational applications of deep learning, and language knowledge bases.
+
+Subject: Prospective CSC Master's Applicant: Inquiry regarding Corpus Linguistics & AI Educational Applications
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Wang,
+
+I am writing to express my sincere interest in joining your research group at Peking University as a Master's student under the Chinese Government Scholarship (CSC/ANSO). Having carefully studied your work on computational and corpus linguistics, I am deeply inspired by your approach to educational applications of deep learning and language knowledge bases. I am reaching out to respectfully request your supervision and an acceptance letter in support of my CSC application.
+
+Your scholarship on corpus-assisted language tools resonates profoundly with the research I am eager to undertake: I aim to evaluate an AI-supported formative assessment design that provides automated feedback on article and collocation errors in Pakistani intermediate learners' writing. I am particularly drawn to how your insights on language models and parallel corpora can illuminate effective feedback mechanisms, and I am excited to develop this line of inquiry under your expert guidance.
+
+I hold a BS (Hons) English Literature from the University of the Punjab, where I developed strong skills in literary analysis, critical theory, and academic research. My academic background has prepared me to engage rigorously with the scholarly discourse your group pursues, and I am eager to contribute meaningfully to your ongoing projects.
+
+Could you kindly let me know whether you are currently accepting new Master's students?
+
+I would be deeply grateful for the opportunity to discuss how I might contribute to your research group.
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/

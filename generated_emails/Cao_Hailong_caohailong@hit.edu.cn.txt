@@ -1,0 +1,33 @@
+Professor: Cao Hailong
+University: Harbin Institute of Technology
+Email: caohailong@hit.edu.cn
+Gemini Model: gemini-3.5-flash-lite
+Research Match: 40/100
+
+Research Summary:
+Professor Cao Hailong specializes in artificial intelligence, natural language processing, computational linguistics, large language models, and machine translation.
+
+Subject: Prospective Master's Supervision & CSC Scholarship: Human Evaluation of Machine Translation in NLP - Akasha Iqbal
+
+Email Body:
+----------------------------------------------------------------------
+Dear Professor Cao,
+
+I hope this email finds you well. My name is Akasha Iqbal, a recent BS English Literature graduate from the University of the Punjab. I have been following your impactful contributions to artificial intelligence and natural language processing, particularly your research in machine translation. As I prepare my application for the upcoming CSC scholarship, I am writing to respectfully inquire about your availability to supervise a Master's student.
+
+Your work in natural language processing and machine translation directly intersects with my proposed research topic, "Human evaluation and post-editing of English machine translation for science-and-technology texts." I am deeply inspired by how computational linguistics and automated systems process technical discourse, and I am eager to explore how human evaluation frameworks can refine machine translation outputs. Contributing to your ongoing investigations in NLP would be an incredible opportunity to advance this interdisciplinary inquiry.
+
+Throughout my academic journey, I have cultivated a strong foundation in academic writing, critical analysis, and research methodology. My background in linguistics and literary studies has equipped me with rigorous text analysis skills, preparing me to engage effectively with computational and linguistic challenges in your research group.
+
+Could you please let me know if you are currently accepting Master's students for the upcoming academic year and whether you would be open to reviewing my proposal for CSC scholarship supervision?
+
+Thank you for your time and consideration.
+
+I look forward to hearing from you.
+
+Best regards,
+
+Akasha Iqbal
+BS (Hons) English Literature
+University of the Punjab
+https://akashaiqbal.vercel.app/
